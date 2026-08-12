@@ -2,5 +2,5 @@
 
 ### 🧑‍💻 Front-End Developer
 
-I'm a passionate front-end developer with 5+ years of experience building modern, user-focused web applications.  
+I'm a passionate front-end developer with 7+ years of experience building modern, user-focused web applications.  
 I love creating clean, interactive, and efficient UIs using **Vue.js**, **React.js**— and I’m always learning something new to improve my craft.
